@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Blankson , a budding Full stack Developer with little bit of skills in HTML/CSS, JAVASCRIPT and PYTHON.
-I have got 6 Months of experience and aspiring to learn to learn more.........
+I have 6 Months of experience and aspiring to learn to learn more.........
 
 <!--
 **yhaw12/yhaw12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
