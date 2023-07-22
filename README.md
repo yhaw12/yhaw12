@@ -1,4 +1,4 @@
-### Hi there 👋, I am Blankson , a budding Full stack Developer with little bit of skills in HTML/CSS, JAVASCRIPT and PYTHON.
+### Hi there 👋, I am Blankson , a budding Full stack Developer with little bit of skills in HTML/CSS, JAVASCRIPT, REACT and PYTHON.
 I have 6 Months of experience and aspiring to learn to learn more.........
 
 <!--
