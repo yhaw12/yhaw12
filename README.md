@@ -1,4 +1,4 @@
-### Hi there 👋, I am Blankson , a budding Full stack Developer with little bit of skills in HTML/CSS, Tailwindcss, JAVASCRIPT, REACT and PYTHON.
+### Hi there 👋, I am Blankson , a budding Full stack Developer with little bit of skills in HTML/CSS, Tailwindcss, JAVASCRIPT, REACT and Laravel.
 
 <!--
 **yhaw12/yhaw12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
